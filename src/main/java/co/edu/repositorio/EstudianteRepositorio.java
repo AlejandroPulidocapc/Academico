@@ -3,7 +3,7 @@ package co.edu.repositorio;
 import java.util.ArrayList;
 import java.util.List;
 
-import co.edu.entidades.Estudiante;
+import co.edu.interlemd.academico.entidades.Estudiante;
 
 public class EstudianteRepositorio {
 

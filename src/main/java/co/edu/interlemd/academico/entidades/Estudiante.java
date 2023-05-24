@@ -1,4 +1,4 @@
-package co.edu.entidades;
+package co.edu.interlemd.academico.entidades;
 
 public class Estudiante {
     private int id; 
